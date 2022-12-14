@@ -29,3 +29,6 @@ C#으로 도서관리 프로그램 만들기
 ![관리자도서추가후](https://user-images.githubusercontent.com/101082700/207527187-31a128b5-d665-4ede-8010-ca70bafada45.png)
 도서 추가 후 모습입니다. 정상적으로 추가한 도서가 들어가있는 모습이 보입니다.
 
+![관리자도서삭제](https://user-images.githubusercontent.com/101082700/207527568-ac576c21-10f6-4522-8f66-45395d4550ac.png)
+도서삭제 부분입니다. 아까 추가한 외계인 도서를 삭제합니다.
+
