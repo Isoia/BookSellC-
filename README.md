@@ -25,3 +25,7 @@ C#으로 도서관리 프로그램 만들기
 
 ![관리자도서추가](https://user-images.githubusercontent.com/101082700/207526919-8f57dafb-4fad-4772-bb46-d06b0718708c.png)
 관리자에서 도서를 추가하는 부분입니다.
+
+![관리자도서추가후](https://user-images.githubusercontent.com/101082700/207527187-31a128b5-d665-4ede-8010-ca70bafada45.png)
+도서 추가 후 모습입니다. 정상적으로 추가한 도서가 들어가있는 모습이 보입니다.
+
