@@ -32,3 +32,5 @@ C#으로 도서관리 프로그램 만들기
 ![관리자도서삭제](https://user-images.githubusercontent.com/101082700/207527568-ac576c21-10f6-4522-8f66-45395d4550ac.png)
 도서삭제 부분입니다. 아까 추가한 외계인 도서를 삭제합니다.
 
+![관리자도서삭제후](https://user-images.githubusercontent.com/101082700/207527840-fe54d2c7-ae34-4e32-a660-c8724344d76d.png)
+도서 삭제 후 모습입니다. 아까 추가한 외계인 도서가 없어져있습니다.
